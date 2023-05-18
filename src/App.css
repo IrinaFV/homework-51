@@ -2,4 +2,29 @@
   margin-top: 15px;
   text-align: center;
 }
+button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  box-shadow: 13px 11px 22px -9px rgba(62, 118, 81, 0.58);
+  margin-bottom: 70px;
+}
+.numbers {
+  display: flex;
+  justify-content: center;
+  color: #1f4213;
+}
+span{
+  font-size: 18px;
+  margin-right: 10px;
+  padding: 30px;
+  border: 2px solid green;
+  background-color: rgba(76, 175, 80, 0.22);
+  border-radius: 50px;
+}
 
